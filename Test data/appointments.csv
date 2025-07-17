@@ -1,0 +1,6 @@
+ID,BookedBy,Date,Time,WithWhom,ClientName,Reason,Status
+1,alice,2025-07-20,09:00,bob,Alice Johnson,Project discussion,Pending
+2,bob,2025-07-21,10:30,carol,Bob Smith,Consultation call,Approved
+3,carol,2025-07-22,14:00,dave,Carol Lee,Feedback session,Rejected
+4,dave,2025-07-23,16:00,eve,Dave Martin,Monthly review,Pending
+5,eve,2025-07-24,11:00,alice,Eve Davis,Budget meeting,Approved
